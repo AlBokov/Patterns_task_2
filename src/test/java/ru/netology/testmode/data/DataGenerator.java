@@ -1,4 +1,4 @@
-package java.ru.netology.testmode.data;
+package ru.netology.testmode.data;
 
 
 
