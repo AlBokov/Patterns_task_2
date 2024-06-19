@@ -1,0 +1,5 @@
+## Домашнее задание к занятию «2.3. Patterns»
+
+## Задача №2: тестовый режим
+
+java -jar ./artifacts/app-ibank.jar -P:profile=test &
